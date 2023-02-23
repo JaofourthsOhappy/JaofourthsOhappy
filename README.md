@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Sittanat or you can call me Fourth. I'm third-year student studying in Software Engineering at Kasetsart University <br>
-in Bangkok, Thailand.</p>
+<p align="left">Hi, I'm Sittanat or you can call me Fourth. Third-year student: Software Engineer in the faculty of engineering at Kasetsart University Teamwork-Oriented, Fast Learner, and willing to learn new skills as a Full Stack Developer for further improvement.</p>
 
 ###
 
