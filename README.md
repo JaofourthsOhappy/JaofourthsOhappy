@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Sittanat or you can call me Fourth. I'm third-year student studying in Software Engineering at Kasetsart University 
+<p align="left">Hi, I'm Sittanat or you can call me Fourth. I'm third-year student studying in Software Engineering at Kasetsart University <b>
 in Bangkok, Thailand.</p>
 
 ###
