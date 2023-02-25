@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Sittanat or you can call me Fourth. <br> Third-year student: Software Engineer in the faculty of engineering at Kasetsart University <br> Teamwork-Oriented, Fast Learner, <br> and willing to learn new skills as a Full Stack Developer for further improvement.</p>
+<p align="left">Hi, I'm Sittanat or you can call me Fourth. <br> Third-year student: Software Engineer in the faculty of engineering at Kasetsart University <br> Teamwork-Oriented, Fast Learner,and willing to learn new skills as a Full Stack Developer for further improvement.</p>
 
 ###
 
